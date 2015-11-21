@@ -1,0 +1,25 @@
+**Effect of Rainfall on Lake Elevation**
+========================================================
+author: dan123data
+date: 
+
+Background
+========================================================
+
+- **Lake Lewisville** is a man made lake 20 miles north of Dallas Texas
+ 
+- 
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
